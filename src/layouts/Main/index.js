@@ -6,7 +6,6 @@ function MainLayout({
     return (
         <div>
             <HeaderComponent></HeaderComponent>
-
             <div>
                 {otherProps.children}
             </div>
