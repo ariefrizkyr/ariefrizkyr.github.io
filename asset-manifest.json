@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab32bab7.chunk.css",
+    "main.js": "/static/js/main.5e9d1537.chunk.js",
+    "main.js.map": "/static/js/main.5e9d1537.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.be5b9293.js",
+    "runtime-main.js.map": "/static/js/runtime-main.be5b9293.js.map",
+    "static/js/2.23c7c7df.chunk.js": "/static/js/2.23c7c7df.chunk.js",
+    "static/js/2.23c7c7df.chunk.js.map": "/static/js/2.23c7c7df.chunk.js.map",
+    "static/js/3.e3eb87dd.chunk.js": "/static/js/3.e3eb87dd.chunk.js",
+    "static/js/3.e3eb87dd.chunk.js.map": "/static/js/3.e3eb87dd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ab32bab7.chunk.css.map": "/static/css/main.ab32bab7.chunk.css.map",
+    "static/js/2.23c7c7df.chunk.js.LICENSE.txt": "/static/js/2.23c7c7df.chunk.js.LICENSE.txt",
+    "static/media/Logo.e8c7fe43.svg": "/static/media/Logo.e8c7fe43.svg",
+    "static/media/angular.e185415c.svg": "/static/media/angular.e185415c.svg",
+    "static/media/confluence.0ea5e19a.svg": "/static/media/confluence.0ea5e19a.svg",
+    "static/media/figma.753c0742.svg": "/static/media/figma.753c0742.svg",
+    "static/media/google-analytics.afebf644.svg": "/static/media/google-analytics.afebf644.svg",
+    "static/media/google-optimize.b854fa23.svg": "/static/media/google-optimize.b854fa23.svg",
+    "static/media/google-tag-manager.10428acf.svg": "/static/media/google-tag-manager.10428acf.svg",
+    "static/media/javascript.fd46ca41.svg": "/static/media/javascript.fd46ca41.svg",
+    "static/media/jira.79401e79.svg": "/static/media/jira.79401e79.svg",
+    "static/media/magento.d7fa1143.svg": "/static/media/magento.d7fa1143.svg",
+    "static/media/metabase.e8865325.svg": "/static/media/metabase.e8865325.svg",
+    "static/media/postman.11ad96f7.svg": "/static/media/postman.11ad96f7.svg",
+    "static/media/react.ae626225.svg": "/static/media/react.ae626225.svg",
+    "static/media/visual-studio-code.3001bc63.svg": "/static/media/visual-studio-code.3001bc63.svg",
+    "static/media/wordpress.50b2c04c.svg": "/static/media/wordpress.50b2c04c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be5b9293.js",
+    "static/js/2.23c7c7df.chunk.js",
+    "static/css/main.ab32bab7.chunk.css",
+    "static/js/main.5e9d1537.chunk.js"
+  ]
+}
