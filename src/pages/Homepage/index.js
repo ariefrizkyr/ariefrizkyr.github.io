@@ -9,18 +9,18 @@ function Homepage() {
             <h2 class="font-semibold text-md md:text-lg text-gray-600 mt-2">Product Enthusiast</h2>
 
             <div className="flex justify-center mt-8 space-x-5">
-                <Link to={{ pathname: 'https://linkedin.com/in/ariefrizkyr' }} target="_blank">
+                <a href="https://linkedin.com/in/ariefrizkyr" target="_blank">
                     <FontAwesomeIcon icon={['fab', 'linkedin']} size="lg" className="text-gray-800 hover:text-gray-600"></FontAwesomeIcon>
-                </Link>
-                <Link to={{ pathname: 'https://github.com/ariefrizkyr' }} target="_blank">
+                </a>
+                <a href="https://github.com/ariefrizkyr" target="_blank">
                     <FontAwesomeIcon icon={['fab', 'github']} size="lg" className="text-gray-800 hover:text-gray-600"></FontAwesomeIcon>
-                </Link>
-                <Link to={{ pathname: 'https://instagram.com/ariefrizkyr' }} target="_blank">
+                </a>
+                <a href="https://instagram.com/ariefrizkyr" target="_blank">
                     <FontAwesomeIcon icon={['fab', 'instagram']} size="lg" className="text-gray-800 hover:text-gray-600"></FontAwesomeIcon>
-                </Link>
-                <Link to={{ pathname: 'https://twitter.com/ariefrizkyr' }} target="_blank">
+                </a>
+                <a href="https://twitter.com/ariefrizkyr" target="_blank">
                     <FontAwesomeIcon icon={['fab', 'twitter']} size="lg" className="text-gray-800 hover:text-gray-600"></FontAwesomeIcon>
-                </Link>
+                </a>
             </div>
         </div>
     );

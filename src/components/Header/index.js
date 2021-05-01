@@ -20,7 +20,7 @@ function HeaderComponent () {
                     <div className="hidden md:flex items-center space-x-1">
                         <Link to="/" className="px-3 text-gray-700 hover:text-gray-900">Home</Link>
                         <Link to="/about" className="px-3 text-gray-700 hover:text-gray-900">About</Link>
-                        <Link to={{ pathname: 'https://medium.com/@ariefrizkyr' }} target="_blank" className="px-3 text-gray-700 hover:text-gray-900">Blog</Link>
+                        <a href="https://medium.com/@ariefrizkyr" target="_blank" className="px-3 text-gray-700 hover:text-gray-900">Blog</a>
                     </div>
 
                     <div className="md:hidden flex justify-between items-center">
@@ -31,14 +31,12 @@ function HeaderComponent () {
                         </button>
                     </div>
                 </div>
-
-                
             </div>
 
             <div className={`${!open && 'hidden'} md:hidden`} >
                 <Link to="/" onClick={openToggle} className="block py-2 px-4 text-sm hover:bg-gray-200">Home</Link>
                 <Link to="/about" onClick={openToggle} className="block py-2 px-4 text-sm hover:bg-gray-200">About</Link>
-                <Link to={{ pathname: 'https://medium.com/@ariefrizkyr' }} target="_blank"  className="block py-2 px-4 text-sm hover:bg-gray-200">Blog</Link>
+                <a href="https://medium.com/@ariefrizkyr" target="_blank"  className="block py-2 px-4 text-sm hover:bg-gray-200">Blog</a>
             </div>
         </nav>
     );
