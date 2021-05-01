@@ -25,7 +25,7 @@ function About() {
             <div className="flex justify-center mt-6">
                 <article className="prose md:prose-lg">
                     <p>
-                        Arief R Ramadhan is a Product Manager at PT Nusa Satu Inti Artha (DOKU). He has been working in full product development cycle from research, ideation, development, to iteration.
+                        Arief R Ramadhan is currently working as a Product Manager at PT Nusa Satu Inti Artha (DOKU). He has been working in full product development cycle from research, ideation, development, to iteration.
                     </p>
 
                     <p>
