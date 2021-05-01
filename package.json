@@ -53,5 +53,5 @@
     "postcss": "^7.0.35",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.1.2"
   },
-  "homepage": "http://ariefrizkyr.github.io/ariefrizkyr"
+  "homepage": "http://ariefrizkyr.github.io/personal-web"
 }
