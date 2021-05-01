@@ -12,6 +12,7 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "is-svg": "^4.3.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-helmet": "^6.1.0",
@@ -52,5 +53,5 @@
     "postcss": "^7.0.35",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.1.2"
   },
-  "homepage": "http://ariefrizkyr.github.io/ariefrizkyr.github.io"
+  "homepage": "http://ariefrizkyr.github.io/ariefrizkyr"
 }
