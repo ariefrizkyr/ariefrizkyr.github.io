@@ -7,13 +7,13 @@ import MetabaseIcon from './tools/metabase.svg';
 import VisualStudioCodeIcon from './tools/visual-studio-code.svg';
 import FigmaIcon from './tools/figma.svg';
 import PostmanIcon from './tools/postman.svg';
-// import HTMLIcon from './stack/html.svg';
-// import CSSIcon from './stack/css.svg';
+import HTMLIcon from './stack/html.svg';
+import CSSIcon from './stack/css.svg';
 import JavascriptIcon from './stack/javascript.svg';
 import AngularIcon from './stack/angular.svg';
 import ReactIcon from './stack/react.svg';
-// import RoRIcon from './stack/ruby-on-rails.svg';
-// import PostgreSQLIcon from './stack/postgresql.svg';
+import RoRIcon from './stack/ruby-on-rails.svg';
+import PostgreSQLIcon from './stack/postgresql.svg';
 import MagentoIcon from './stack/magento.svg';
 import WordPressIcon from './stack/wordpress.svg';
 
@@ -57,13 +57,13 @@ function About() {
                     </h3>
 
                     <div className="flex justify-center md:justify-between space-x-6 flex-wrap">
-                        {/* <img src={HTMLIcon} class="h-8 w-8" alt="HTML"></img> */}
-                        {/* <img src={CSSIcon} class="h-8 w-8" alt="CSS"></img> */}
+                        <img src={HTMLIcon} class="h-8 w-8" alt="HTML"></img>
+                        <img src={CSSIcon} class="h-8 w-8" alt="CSS"></img>
                         <img src={JavascriptIcon} class="h-8 w-8" alt="Javascript"></img>
                         <img src={AngularIcon} class="h-8 w-8" alt="Angular"></img>
                         <img src={ReactIcon} class="h-8 w-8" alt="React"></img>
-                        {/* <img src={RoRIcon} class="h-8 w-8" alt="Ruby on Rails"></img> */}
-                        {/* <img src={PostgreSQLIcon} class="h-8 w-8" alt="PostgreSQL"></img> */}
+                        <img src={RoRIcon} class="h-8 w-8" alt="Ruby on Rails"></img>
+                        <img src={PostgreSQLIcon} class="h-8 w-8" alt="PostgreSQL"></img>
                         <img src={MagentoIcon} class="h-8 w-8" alt="Magento"></img>
                         <img src={WordPressIcon} class="h-8 w-8" alt="WordPress"></img>
                     </div>
