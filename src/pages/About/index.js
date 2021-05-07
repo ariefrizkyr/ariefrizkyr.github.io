@@ -41,15 +41,15 @@ function About() {
                     </h3>
                     
                     <div className="flex justify-center md:justify-between space-x-6 flex-wrap">
-                        <img src={JiraIcon} class="h-8 w-8" alt="Jira"></img>
-                        <img src={ConfluenceIcon} class="h-8 w-8" alt="Confluence"></img>
-                        <img src={GoogleAnalyticsIcon} class="h-8 w-8" alt="Google Analytics"></img>
-                        <img src={GoogleTagManagerIcon} class="h-8 w-8" alt="Google Tag Manager"></img>
-                        <img src={GoogleOptimizeIcon} class="h-8 w-8" alt="Google Optimize"></img>
-                        <img src={FigmaIcon} class="h-8 w-8" alt="Figma"></img>
-                        <img src={VisualStudioCodeIcon} class="h-8 w-8" alt="Visual Studio Code"></img>
-                        <img src={PostmanIcon} class="h-8 w-8" alt="Postman"></img>
-                        <img src={MetabaseIcon} class="h-8 w-8" alt="Metabase"></img>
+                        <img src={JiraIcon} className="h-8 w-8" alt="Jira"></img>
+                        <img src={ConfluenceIcon} className="h-8 w-8" alt="Confluence"></img>
+                        <img src={GoogleAnalyticsIcon} className="h-8 w-8" alt="Google Analytics"></img>
+                        <img src={GoogleTagManagerIcon} className="h-8 w-8" alt="Google Tag Manager"></img>
+                        <img src={GoogleOptimizeIcon} className="h-8 w-8" alt="Google Optimize"></img>
+                        <img src={FigmaIcon} className="h-8 w-8" alt="Figma"></img>
+                        <img src={VisualStudioCodeIcon} className="h-8 w-8" alt="Visual Studio Code"></img>
+                        <img src={PostmanIcon} className="h-8 w-8" alt="Postman"></img>
+                        <img src={MetabaseIcon} className="h-8 w-8" alt="Metabase"></img>
                     </div>
                     
                     <h3 className="text-center">
@@ -57,15 +57,15 @@ function About() {
                     </h3>
 
                     <div className="flex justify-center md:justify-between space-x-6 flex-wrap">
-                        <img src={HTMLIcon} class="h-8 w-8" alt="HTML"></img>
-                        <img src={CSSIcon} class="h-8 w-8" alt="CSS"></img>
-                        <img src={JavascriptIcon} class="h-8 w-8" alt="Javascript"></img>
-                        <img src={AngularIcon} class="h-8 w-8" alt="Angular"></img>
-                        <img src={ReactIcon} class="h-8 w-8" alt="React"></img>
-                        <img src={RoRIcon} class="h-8 w-8" alt="Ruby on Rails"></img>
-                        <img src={PostgreSQLIcon} class="h-8 w-8" alt="PostgreSQL"></img>
-                        <img src={MagentoIcon} class="h-8 w-8" alt="Magento"></img>
-                        <img src={WordPressIcon} class="h-8 w-8" alt="WordPress"></img>
+                        <img src={HTMLIcon} className="h-8 w-8" alt="HTML"></img>
+                        <img src={CSSIcon} className="h-8 w-8" alt="CSS"></img>
+                        <img src={JavascriptIcon} className="h-8 w-8" alt="Javascript"></img>
+                        <img src={AngularIcon} className="h-8 w-8" alt="Angular"></img>
+                        <img src={ReactIcon} className="h-8 w-8" alt="React"></img>
+                        <img src={RoRIcon} className="h-8 w-8" alt="Ruby on Rails"></img>
+                        <img src={PostgreSQLIcon} className="h-8 w-8" alt="PostgreSQL"></img>
+                        <img src={MagentoIcon} className="h-8 w-8" alt="Magento"></img>
+                        <img src={WordPressIcon} className="h-8 w-8" alt="WordPress"></img>
                     </div>
                 </article>
             </div>
