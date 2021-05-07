@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.ab32bab7.chunk.css",
-    "main.js": "/static/js/main.5bb8534b.chunk.js",
-    "main.js.map": "/static/js/main.5bb8534b.chunk.js.map",
+    "main.js": "/static/js/main.9eeb318d.chunk.js",
+    "main.js.map": "/static/js/main.9eeb318d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.93aea8de.js",
     "runtime-main.js.map": "/static/js/runtime-main.93aea8de.js.map",
     "static/js/2.3d44f1ec.chunk.js": "/static/js/2.3d44f1ec.chunk.js",
@@ -16,10 +16,10 @@
     "static/media/angular.e185415c.svg": "/static/media/angular.e185415c.svg",
     "static/media/confluence.0ea5e19a.svg": "/static/media/confluence.0ea5e19a.svg",
     "static/media/css.87d546e0.svg": "/static/media/css.87d546e0.svg",
-    "static/media/figma.25e694ff.svg": "/static/media/figma.25e694ff.svg",
-    "static/media/google-analytics.c19811ae.svg": "/static/media/google-analytics.c19811ae.svg",
-    "static/media/google-optimize.5dac6018.svg": "/static/media/google-optimize.5dac6018.svg",
-    "static/media/google-tag-manager.99f415ee.svg": "/static/media/google-tag-manager.99f415ee.svg",
+    "static/media/figma.753c0742.svg": "/static/media/figma.753c0742.svg",
+    "static/media/google-analytics.afebf644.svg": "/static/media/google-analytics.afebf644.svg",
+    "static/media/google-optimize.b854fa23.svg": "/static/media/google-optimize.b854fa23.svg",
+    "static/media/google-tag-manager.10428acf.svg": "/static/media/google-tag-manager.10428acf.svg",
     "static/media/html.4926f659.svg": "/static/media/html.4926f659.svg",
     "static/media/javascript.fd46ca41.svg": "/static/media/javascript.fd46ca41.svg",
     "static/media/jira.79401e79.svg": "/static/media/jira.79401e79.svg",
@@ -36,6 +36,6 @@
     "static/js/runtime-main.93aea8de.js",
     "static/js/2.3d44f1ec.chunk.js",
     "static/css/main.ab32bab7.chunk.css",
-    "static/js/main.5bb8534b.chunk.js"
+    "static/js/main.9eeb318d.chunk.js"
   ]
 }
